@@ -3,3 +3,6 @@ A: git init creates the intial metadata and associated directories needed to sta
 
 Q: How is the staging area different from the working directory and the repository?  What value do you think it offers?
 A: The staging area is the place to put together the colection of files that you want to track in repository.  It allows you do define what files belong in a commit for the repository.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: The staging area gives you an easy way to compare what you are about to commit to what the last commit was before actually committing it.  You can see just how much and what you changed before committing.  I'm not sure how, if you decide that you've made too much change, you would split it to smaller chunks, though.
