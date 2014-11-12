@@ -1,0 +1,20 @@
+Q: How did viewing a diff betewen two versions of a file help you see see the bug?
+A: Let me zero in on only the difference between the two files.
+
+Q: How could have easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: A program changes a lot over time and it's hard to remember what changed each step along the way.  Often you're trying out a new thing and if that doesn't work, going back in time could be very handy.
+
+Q: What do you think are the pros and cons of manually choosing to create a commit, vs. automatically?
+A: Pros: you can commit on logical intervals, these are easier to read and keep track of; Cons: you have to remember to do it, it may take some time to find the right cadence of commits.
+
+Q: Why do you think that some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A: Git is used primarily for programming, which often has multiple related files that make up a complete system.  Ultimately, is the whole system that you are tracking and therefore, you need to track each part to successfully track the whole.  Google Docs usually deals with individual files that are not usaully related.  Therefore, tracking individual files is fine.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: gig log shows you a log of the repository and all of it's commits.  gig diff allows you to compare any two commits and show you what changed between each commit.
+
+Q: How might using version control make you more confident to make changes that could break something?
+A: Knowing that you can easily go back to previous versions quickly, would give me lots of confidence to make changes!
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: Programming!  I want to learn how to use it for my front end work.  Also curious how easy it is to use with Codepen.io.

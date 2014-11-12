@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository?  Why do you need to do it?
+A: git init creates the intial metadata and associated directories needed to start tracking your changes.
