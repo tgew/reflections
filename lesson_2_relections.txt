@@ -1,2 +1,5 @@
 Q: What happens when you initialize a repository?  Why do you need to do it?
 A: git init creates the intial metadata and associated directories needed to start tracking your changes.
+
+Q: How is the staging area different from the working directory and the repository?  What value do you think it offers?
+A: The staging area is the place to put together the colection of files that you want to track in repository.  It allows you do define what files belong in a commit for the repository.
